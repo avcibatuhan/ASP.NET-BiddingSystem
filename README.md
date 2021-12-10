@@ -18,9 +18,13 @@ Project is created with:
 ## Setup
 1. Open `IhaleProject.sln` with Visual Studio. <br/>
 2. Create database tables like this <br/>
+
 ![Ekran Görüntüsü (35)](https://user-images.githubusercontent.com/43846788/145547395-3db8d075-9a04-4718-897a-24cce3308f8b.png) <br/>
+
 3.Connect your SQL Server and Entity Framework <br/>
-4.Add a admin user in your SQL SERVER and check this user's 'IsAdmin' column true.
+
+4.Add a admin user in your SQL SERVER and check this user's 'IsAdmin' column true. <br/>
+
 5.Now project is ready!!
 
 ## Screenshots
