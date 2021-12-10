@@ -23,7 +23,7 @@ Project is created with:
 
 3.Connect your SQL Server and Entity Framework <br/>
 
-4.Add a admin user in your SQL SERVER and check this user's 'IsAdmin' column true. <br/>
+4.Add a admin user in your SQL SERVER and set this user's 'IsAdmin' column true. <br/>
 
 5.Now project is ready!!
 
